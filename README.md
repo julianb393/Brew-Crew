@@ -1,4 +1,4 @@
-# brew_crew
+# Brew Crew
 
 A Flutter projects that allows users to create an account and add how they enjoy their coffees. The purpose of this application is to simplify coffee runs on work break or even gatherings. All user data are stored in a Firebase real time database.
 
