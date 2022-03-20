@@ -1,16 +1,11 @@
 # brew_crew
 
-A new Flutter project.
+A Flutter projects that allows users to create an account and add how they enjoy their coffees. The purpose of this application is to simplify coffee runs on work break or even gatherings. All user data are stored in a Firebase real time database.
 
-## Getting Started
+![Sign In](screenshots/sign_in.PNG?raw=true "Sign In")
 
-This project is a starting point for a Flutter application.
+![Register](screenshots/register.PNG?raw=true "Register")
 
-A few resources to get you started if this is your first Flutter project:
+![Update Settings](screenshots/update_settings.PNG?raw=true "Update Settings")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home](screenshots/home.PNG?raw=true "Home")
